@@ -1,2 +1,5 @@
 # bss_app
-TECH-BASE PHPコース　m5-01　
+
+TECH-BASEのPHPコースで簡単な掲示板アプリを作ってみました。
+
+PHP✖︎MySQL
