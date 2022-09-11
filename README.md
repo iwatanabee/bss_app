@@ -1,5 +1,5 @@
 # bss_app
 
-TECH-BASEのPHPコースで簡単な掲示板アプリを作ってみました。
+TECH-BASEのPHPコースで簡単なWeb掲示板を作ってみました。
 
 PHP✖︎MySQL
